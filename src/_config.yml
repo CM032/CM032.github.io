@@ -13,6 +13,8 @@ exclude:
   - README.md
   - LICENSE.txt
   - CNAME
+  - vendor
+  - vendor/bundle
 markdown: kramdown
 
 theme: jekyll-theme-cayman
