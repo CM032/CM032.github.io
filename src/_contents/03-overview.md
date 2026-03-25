@@ -6,7 +6,29 @@ subheading: Descripción General del Curso&#58;
 image: ""
 ---
 
-Es muy difícil diseñar manualmente programas para resolver muchos problemas del mundo real, por ejemplo, distinguir imágenes de gatos versus perros. Los algoritmos de aprendizaje automático permiten que las computadoras aprendan de datos de ejemplo y produzcan un programa que haga el trabajo.
-Las redes neuronales son una clase de algoritmo de aprendizaje automático originalmente inspirado en el cerebro, pero que recientemente ha tenido mucho éxito en aplicaciones prácticas. Se encuentran en el corazón de sistemas de producción en empresas como Google y Facebook para procesamiento de imágenes, conversión de voz a texto y comprensión del lenguaje.
-Este curso proporciona una descripción general de tanto las ideas fundamentales como los avances recientes en algoritmos de redes neuronales. 
+Muchos fenómenos físicos y naturales—desde la transferencia de calor
+y la dinámica de fluidos hasta la propagación de ondas y los procesos
+de advección-difusión—se modelan mediante ecuaciones diferenciales
+parciales (EDP).
+Resolver estas ecuaciones analíticamente es a menudo imposible en
+casos reales, lo que hace necesario el uso de métodos numéricos para
+aproximar soluciones.
+
+Este curso ofrece una introducción integral a los
+**métodos numéricos para ecuaciones diferenciales parciales**, con
+énfasis en la discretización espacio-temporal, resolución de sistemas
+de leyes de conservación y validación computacional.
+Cubrimos los fundamentos de métodos clásicos como
+**diferencias finitas**, **volúmenes finitos** y
+**elementos finitos**, así como técnicas modernas como esquemas
+**ENO/WENO** para problemas hiperbólicos.
+
+El curso es de carácter eminentemente **práctico e integrado**:
+estudiamos propiedades matemáticas esenciales (estabilidad,
+consistencia, convergencia) mediante implementación directa en Python.
+Analizaremos problemas reales en transferencia térmica, dinámica de
+gases, aguas poco profundas, cinética química y fenómenos ondulatorios.
+Al finalizar, tendrás las herramientas teóricas y computacionales
+para diseñar, implementar y validar esquemas numéricos apropiados
+para tus propios problemas de investigación e ingeniería. 
 

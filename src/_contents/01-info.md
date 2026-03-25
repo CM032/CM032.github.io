@@ -11,8 +11,8 @@ image: ""
 **Personal docente:**  
 
 * Instructor y horarios de atención: 
-  * Profesor [Fidel Jara](https://github.com/fideljara-art), lunes R1-250A 4-6 pm, miércoles sala 2 5-7 pm, viernes R3-123B 4-6pm
-* Asistente Principal: Alumno [Carlos Aznarán](https://github.com/carlosal1015)
+  * Profesor [Fidel Jara](https://github.com/fideljara-art), oficina de profesores: pabellón R3, segundo piso.
+* Asistente Principal: Tesista [Carlos Aznarán](https://github.com/carlosal1015)
 
 Correos de contacto:
 
@@ -33,6 +33,7 @@ que toda la clase pueda beneficiarse de la respuesta.
 | ---------- | --------------------------------------------- | ----------- | --------- |
 | 23/03/2026 | Introducción al curso y [prueba de entrada]() | 16:00-18:00 | R1-250 A  |
 | 25/03/2026 | Introducción a Python                         | 17:00-19:00 | Sala 2    |
+| 27/03/2026 | Método de diferencias finitas                 | 16:00-18:00 | R3-123 B  |
 
 <br/>
 
