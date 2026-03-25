@@ -1,24 +1,24 @@
 ---
 id: assignments
-name: Assignments
-heading: Assignments
-subheading: Assignments&#58;
+name: Tareas
+heading: Tareas
+subheading: Tareas&#58;
 image: ""
 ---
 
-|           | Handout                | Due
-|-----------|------------------------|---------
-| **Assignment 1**   | [pdf](assets/assignments/a1.pdf), [starter code](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a1-code.ipynb)(make a copy in your own Drive)  | Jan. 15(out), due Feb. 3
-| **Assignment 2**   | [pdf](assets/assignments/a2.pdf), [starter code](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a2-code.ipynb)(make a copy in your own Drive)   | Jan. 29(out), due Feb. 24
-| **Assignment 3**   | [pdf](assets/assignments/a3.pdf), [nmt.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/nmt.ipynb), [bert.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/bert.ipynb), [clip.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/clip.ipynb)(make a copy in your own Drive)  | <s>Feb. 19(out), due Mar. 24</s> Mar. 04(out), due Mar. 31
-| **Assignment 4**   |  [pdf](assets/assignments/a4.pdf), [gnn.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/gnn.ipynb), [dqn.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/dqn.ipynb)  | <s>Mar. 12(out), due Apr. 07</s> Mar. 17(out), due Apr. 11
-| **Course Project**   |  [handout](assets/misc/project_handout.pdf)     | <s>due Apr. 14</s> due Apr. 19 (Peer review due Apr. 22)
+|                        | Documento                                                                                                                                                                                                                                                                                                                                                                                                            | Vencimiento                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Tarea 1**            | [pdf](assets/assignments/a1.pdf), [código inicial](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a1-code.ipynb)(crear una copia en tu Drive)                                                                                                                                                                                                                              | 15 de enero (publicada), vence 3 de febrero                                                   |
+| **Tarea 2**            | [pdf](assets/assignments/a2.pdf), [código inicial](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a2-code.ipynb)(crear una copia en tu Drive)                                                                                                                                                                                                                              | 29 de enero (publicada), vence 24 de febrero                                                  |
+| **Tarea 3**            | [pdf](assets/assignments/a3.pdf), [nmt.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/nmt.ipynb), [bert.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/bert.ipynb), [clip.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/clip.ipynb)(crear una copia en tu Drive) | <s>19 de febrero (publicada), vence 24 de marzo</s> 4 de marzo (publicada), vence 31 de marzo |
+| **Tarea 4**            | [pdf](assets/assignments/a4.pdf), [gnn.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/gnn.ipynb), [dqn.ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/dqn.ipynb)                                                                                                                                                   | <s>12 de marzo (publicada), vence 7 de abril</s> 17 de marzo (publicada), vence 11 de abril   |
+| **Proyecto del Curso** | [documento](assets/misc/project_handout.pdf)                                                                                                                                                                                                                                                                                                                                                                         | <s>vence 14 de abril</s> vence 19 de abril (Revisión por pares vence 22 de abril)             |
 
 <br/> 
 
-**Lateness and grace days:** Every student has a total of 7 grace days to extend the coursework deadlines through the semester. Each grace day allows for a 24 hours deadline extension without late penalty. That is, you may apply the grace days on a late submission to remove its late penalty. The maximum extension you may request is up to the remaining grace days you have banked up. We will keep track of the grace days on MarkUs. After the grace period, assignments will be accepted up to 3 days late, but 10% will be deducted for each day late, rounded up to the nearest day. After that, submissions will not be accepted and will receive a score of 0. 
+**Retrasos y días de gracia:** Cada estudiante tiene un total de 7 días de gracia para extender los plazos de las tareas del curso durante el semestre. Cada día de gracia permite una extensión de plazo de 24 horas sin penalización por retraso. Es decir, puedes aplicar los días de gracia en una entrega tardía para eliminar su penalización. La extensión máxima que puedes solicitar es hasta los días de gracia restantes que hayas acumulado. Realizaremos un seguimiento de los días de gracia en MarkUs. Después del período de gracia, las tareas se aceptarán hasta 3 días tarde, pero se deducirá el 10% por cada día de retraso, redondeado al día más cercano. Después de eso, las entregas no se aceptarán y recibirán una puntuación de 0. 
 <br/> 
 
-**Midterm Online Quiz:**  *Feb. 9* 
+**Examen Parcial en Línea:** *9 de febrero* 
 
-The midterm online quiz will cover the lecture materials up to Lecture 4 and Assignment 2 (written part only). The quiz will be hosted on Quecus for 24 hours. The exact details will be announced soon.
+El examen parcial en línea cubrirá los materiales de la conferencia hasta la Conferencia 4 y la Tarea 2 (solo la parte escrita). El examen se alojará en Quecus durante 24 horas. Los detalles exactos se anunciarán pronto.

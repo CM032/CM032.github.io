@@ -1,10 +1,12 @@
 ---
 id: overview
-name: Overview
-heading: Overview
-subheading: Course Overview&#58;
+name: Descripción General
+heading: Descripción General
+subheading: Descripción General del Curso&#58;
 image: ""
 ---
 
-It is very hard to hand design programs to solve many real world problems, e.g. distinguishing images of cats v.s. dogs. Machine learning algorithms allow computers to learn from example data, and produce a program that does the job. Neural networks are a class of machine learning algorithm originally inspired by the brain, but which have recently have seen a lot of success at practical applications. They're at the heart of production systems at companies like Google and Facebook for image processing, speech-to-text, and language understanding. This course gives an overview of both the foundational ideas and the recent advances in neural net algorithms. 
+Es muy difícil diseñar manualmente programas para resolver muchos problemas del mundo real, por ejemplo, distinguir imágenes de gatos versus perros. Los algoritmos de aprendizaje automático permiten que las computadoras aprendan de datos de ejemplo y produzcan un programa que haga el trabajo.
+Las redes neuronales son una clase de algoritmo de aprendizaje automático originalmente inspirado en el cerebro, pero que recientemente ha tenido mucho éxito en aplicaciones prácticas. Se encuentran en el corazón de sistemas de producción en empresas como Google y Facebook para procesamiento de imágenes, conversión de voz a texto y comprensión del lenguaje.
+Este curso proporciona una descripción general de tanto las ideas fundamentales como los avances recientes en algoritmos de redes neuronales. 
 

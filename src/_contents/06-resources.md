@@ -1,20 +1,16 @@
 ---
 id: resource
-name: Resource
-heading: Resource
-subheading: Resource&#58;
+name: Recurso
+heading: Recurso
+subheading: Recurso&#58;
 image: ""
 ---
 
-| Type | Name | Description 
-|-----------|------------------------|---------
-|Related Textbooks| [Deep Learning (Goodfellow at al., 2016)](https://www.deeplearningbook.org/) | The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning.
-|-----------|------------------------|---------
-|| [Information Theory, Inference, and Learning Algorithms (MacKay, 2003)](http://www.inference.org.uk/mackay/itprnn/book.html) | A good introduction textbook that combines information theory and machine learning.
-|-----------|------------------------|---------
-|General Framework| [PyTorch](http://pytorch.org/) | An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
-|-----------|------------------------|---------
-|Computation Platform| [Colab](https://colab.research.google.com) | Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
-|-----------|------------------------|---------
-|| [GCE](https://cloud.google.com/compute/) | Google Compute Engine delivers virtual machines running in Google's innovative data centers and worldwide fiber network.
-|| [AWS-EC2](https://aws.amazon.com/ec2/) | Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), by allowing users to rent virtual computers on which to run their own computer applications.
+| Tipo                         | Nombre                                                                                                                                 | Descripción                                                                                                                                                                                                                                                       |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Libros de Texto Relacionados | [Aprendizaje Profundo (Goodfellow et al., 2016)](https://www.deeplearningbook.org/)                                                    | El libro de texto Aprendizaje Profundo es un recurso destinado a ayudar a estudiantes y profesionales a ingresar al campo del aprendizaje automático en general y el aprendizaje profundo.                                                                        |
+| Libros de Texto Relacionados | [Teoría de la Información, Inferencia y Algoritmos de Aprendizaje (MacKay, 2003)](http://www.inference.org.uk/mackay/itprnn/book.html) | Un buen libro de texto introductorio que combina teoría de la información y aprendizaje automático.                                                                                                                                                               |
+| Marco General                | [PyTorch](http://pytorch.org/)                                                                                                         | Una plataforma de aprendizaje profundo de código abierto que proporciona un camino sin interrupciones desde la creación de prototipos de investigación hasta la implementación en producción.                                                                     |
+| Plataforma de Computación    | [Colab](https://colab.research.google.com)                                                                                             | Colaboratory es un entorno de cuaderno Jupyter gratuito que no requiere configuración y se ejecuta completamente en la nube.                                                                                                                                      |
+| Plataforma de Computación    | [GCE](https://cloud.google.com/compute/)                                                                                               | Google Compute Engine entrega máquinas virtuales que se ejecutan en los innovadores centros de datos de Google y su red de fibra óptica mundial.                                                                                                                  |
+| Plataforma de Computación    | [AWS-EC2](https://aws.amazon.com/ec2/)                                                                                                 | Amazon Elastic Compute Cloud (EC2) forma parte central de la plataforma de computación en la nube de Amazon.com, Amazon Web Services (AWS), al permitir a los usuarios alquilar computadoras virtuales en las que ejecutar sus propias aplicaciones informáticas. |

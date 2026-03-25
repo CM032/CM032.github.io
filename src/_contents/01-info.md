@@ -7,13 +7,13 @@ image: ""
 ---
 
 
-**Programa del curso y políticas:**  [Contenido del curso](assets/misc/syllabus.pdf).
+**Programa del curso y políticas:** [Contenido del curso](assets/misc/syllabus.pdf).
 
 **Personal docente:**  
 
 * Instructor y horarios de atención: 
-  * [Jimmy Ba](http://jimmylba.github.io), Martes 5-6pm, PT290C
-  * [Bo Wang](https://wanglab.ml/),  Viernes 11-mediodía, 
+  * [Jimmy Ba](http://jimmylba.github.io), martes 5-6 pm, PT290C
+  * [Bo Wang](https://wanglab.ml/), viernes 11-mediodía
 * Asistente Principal: John Giorgi and Rex Ma
 
 Correos de contacto:
