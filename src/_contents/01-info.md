@@ -29,11 +29,11 @@ que toda la clase pueda beneficiarse de la respuesta.
 
 **Horarios de conferencias y tutorías:**  
 
-| Fecha      | Tema                                          | Hora        | Ubicación |
-| ---------- | --------------------------------------------- | ----------- | --------- |
-| 23/03/2026 | Introducción al curso y [prueba de entrada]() | 16:00-18:00 | R1-250 A  |
-| 25/03/2026 | Introducción a Python                         | 17:00-19:00 | Sala 2    |
-| 27/03/2026 | Método de diferencias finitas                 | 16:00-18:00 | R3-123 B  |
+| Fecha      | Tema                                                                  | Hora        | Ubicación |
+| ---------- | --------------------------------------------------------------------- | ----------- | --------- |
+| 23/03/2026 | Introducción al curso y [prueba de entrada](assets/misc/entrance.pdf) | 16:00-18:00 | R1-250 A  |
+| 25/03/2026 | Introducción a Python para Métodos Numéricos                          | 17:00-19:00 | Sala 2    |
+| 27/03/2026 | Método de diferencias finitas                                         | 16:00-18:00 | R3-123 B  |
 
 <br/>
 
