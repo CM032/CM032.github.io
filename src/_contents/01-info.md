@@ -6,7 +6,7 @@ subheading:
 image: ""
 ---
 
-**Programa del curso y políticas:** [Contenido del curso](assets/misc/syllabus.pdf).
+**Programa del curso:** [Contenido del curso](assets/misc/syllabus.pdf).
 
 **Personal docente:**  
 
@@ -27,5 +27,7 @@ Si su pregunta es sobre el material del curso y no revela pistas sobre las tarea
 | ---------- | ----------------------------------------- | ---------------- | --------- |
 | 23/03/2026 | Introducción al curso y prueba de Entrada | Lunes 4-6        | R1-250A   |
 | 25/03/2026 | Introducción a Python                     | Miércoles 5-7 pm | Sala 2    |
+
+<br/>
 
 **Conferencias y tutorías en línea:** El acceso a las conferencias y tutorías en línea se comunicará a través de la lista de correo del curso.
