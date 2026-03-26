@@ -6,12 +6,16 @@ subheading: Calendar&#58;
 image: ""
 ---
 
-Las lecturas sugeridas incluidas te ayudan a entender el material del curso. No son obligatorias, es decir, solo eres responsable del material cubierto en la conferencia. La mayoría de las lecturas sugeridas son más avanzadas que la conferencia correspondiente, y son de interés si deseas saber de dónde proviene nuestro conocimiento o seguir las fronteras actuales de la investigación.
+Las lecturas sugeridas incluidas te ayudan a entender el material del curso.
+No son obligatorias, es decir, solo eres responsable del material cubierto en la conferencia.
+La mayoría de las lecturas sugeridas son más avanzadas que la conferencia correspondiente,
+y son de interés si deseas saber de dónde proviene nuestro conocimiento o seguir las
+fronteras actuales de la investigación.
 
-|             | Date       | Topic                                                                 | Slides                                                                                                                 | Suggested Readings                                                                                                                                                                                                        |
+|             | Fecha      | Tema                                                                  | Diapositivas                                                                                                           | Lecturas sugeridas                                                                                                                                                                                                        |
 | ----------- | ---------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Clase 1** | 23/03/2026 | Introducción al curso y [prueba de entrada](assets/misc/entrance.pdf) | [Slides](assets/slides/lecture1.pdf)                                                                                   | Roger Grosse's notes: [Linear Regression](assets/readings/L01a.pdf), [Linear Classifiers](assets/readings/L01b.pdf), [Training a Classifier](assets/readings/L01c.pdf)                                                    |
-| *Tutorial*  | 25/03/2026 | Introducción a Python para Métodos Numéricos                          | [ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/tutorials/tut01_calc_intro.ipynb) | iPython notebook: [ipynb](assets/tutorials/tut01_calc_intro.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/tutorials/tut01_calc_intro.ipynb). |
+| *Laboratorio*  | 25/03/2026 | Introducción a Python para Métodos Numéricos                          | [ipynb](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/tutorials/tut01_calc_intro.ipynb) | iPython notebook: [ipynb](assets/tutorials/tut01_calc_intro.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/tutorials/tut01_calc_intro.ipynb). |
 | **Clase 2** | 27/03/2026 | Multilayer Perceptrons & Backpropagation                              | [Slides](assets/slides/Lec2.pdf)                                                                                       | Roger Grosse's notes: [Multilayer Perceptrons](assets/readings/L02a.pdf), [Backpropagation](assets/readings/L02b.pdf)                                                                                                     |
 
 {% comment %}

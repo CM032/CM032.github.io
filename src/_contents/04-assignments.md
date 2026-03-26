@@ -20,9 +20,12 @@ image: ""
 
 <br/> 
 
-**Retrasos y días de gracia:** Cada estudiante tiene un total de 7 días de gracia para extender los plazos de las tareas del curso durante el semestre. Cada día de gracia permite una extensión de plazo de 24 horas sin penalización por retraso. Es decir, puedes aplicar los días de gracia en una entrega tardía para eliminar su penalización. La extensión máxima que puedes solicitar es hasta los días de gracia restantes que hayas acumulado. Realizaremos un seguimiento de los días de gracia en MarkUs. Después del período de gracia, las tareas se aceptarán hasta 3 días tarde, pero se deducirá el 10% por cada día de retraso, redondeado al día más cercano. Después de eso, las entregas no se aceptarán y recibirán una puntuación de 0. 
+**Retrasos y días de gracia:** Cada estudiante tiene un total de 7 días de gracia para extender los plazos de las tareas del curso durante el semestre. Cada día de gracia permite una extensión de plazo de 24 horas sin penalización por retraso.
 <br/> 
 
-**Examen Parcial en Línea:** *9 de febrero* 
+
+{% comment %}
+**Examen Parcial:** *9 de febrero* 
 
 El examen parcial en línea cubrirá los materiales de la conferencia hasta la Conferencia 4 y la Tarea 2 (solo la parte escrita). El examen se alojará en Quecus durante 24 horas. Los detalles exactos se anunciarán pronto.
+{% endcomment %}

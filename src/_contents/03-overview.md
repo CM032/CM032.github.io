@@ -2,33 +2,33 @@
 id: overview
 name: Descripción General
 heading: Descripción General
-subheading: Descripción General del Curso&#58;
+subheading: Una introducción técnica y aplicada a la resolución de EDPs
 image: ""
 ---
 
-Muchos fenómenos físicos y naturales—desde la transferencia de calor
-y la dinámica de fluidos hasta la propagación de ondas y los procesos
-de advección-difusión—se modelan mediante ecuaciones diferenciales
-parciales.
-Resolver estas ecuaciones analíticamente es a menudo imposible en
-casos reales, lo que hace necesario el uso de métodos numéricos para
-aproximar soluciones.
+Gran parte de los fenómenos físicos y naturales —desde la
+transferencia de calor y la dinámica de fluidos hasta la propagación
+de ondas y los procesos de advección-difusión— se modelan mediante
+**ecuaciones diferenciales parciales (EDPs)**.
+Dado que obtener soluciones analíticas exactas es a menudo inviable
+en escenarios reales, se vuelve indispensable el uso de métodos
+numéricos para aproximar su comportamiento con precisión.
 
-Este curso ofrece una introducción integral a los
-**métodos numéricos para ecuaciones diferenciales parciales**, con
-énfasis en la discretización espacio-temporal, resolución de sistemas
-de leyes de conservación y validación computacional.
-Cubrimos los fundamentos de métodos clásicos como
+Este curso ofrece una formación integral en los
+**métodos numéricos para EDPs**, con un enfoque balanceado entre la
+teoría matemática y la validación computacional.
+El programa abarca tanto los fundamentos de métodos clásicos como
 **diferencias finitas**, **volúmenes finitos** y
-**elementos finitos**, así como técnicas modernas como esquemas
-**ENO/WENO** para problemas hiperbólicos.
+**elementos finitos**, como también técnicas modernas de alta
+resolución, tales como los esquemas **ENO/WENO** para problemas
+hiperbólicos.
 
-El curso es de carácter eminentemente **práctico e integrado**:
-estudiamos propiedades matemáticas esenciales (estabilidad,
-consistencia, convergencia) mediante implementación directa en Python.
-Analizaremos problemas reales en transferencia térmica, dinámica de
-gases, aguas poco profundas, cinética química y fenómenos ondulatorios.
-Al finalizar, tendrás las herramientas teóricas y computacionales
-para diseñar, implementar y validar esquemas numéricos apropiados
-para tus propios problemas de investigación e ingeniería. 
-
+El aprendizaje es eminentemente **práctico y aplicado**: exploramos
+propiedades esenciales de estabilidad, consistencia y convergencia
+mediante la implementación directa en **Python**.
+A lo largo del curso, analizaremos problemas reales en áreas como
+transferencia térmica, dinámica de gases, modelos de aguas poco
+profundas, cinética química y fenómenos ondulatorios.
+Al finalizar, contarás con las herramientas necesarias para diseñar,
+implementar y validar esquemas numéricos robustos orientados a
+desafíos complejos en investigación e ingeniería.
