@@ -1,42 +1,35 @@
 ---
 id: info
-name: Información del Curso
-heading: Información del Curso
-subheading:  
+name: Información del curso
+heading: Información General
+subheading: Detalles sobre el personal, horarios y canales de comunicación
 image: ""
 ---
 
-**Programa del curso:** [Contenido del curso](assets/misc/syllabus.pdf).
+**Sílabo del curso:** Puedes consultar el [contenido detallado aquí](assets/misc/syllabus.pdf).
 
-**Personal docente:**  
+### Plana Docente
 
-* Instructor y horarios de atención: 
-  * Profesor [Fidel Jara](https://github.com/fideljara-art), oficina de profesores: pabellón R3, segundo piso.
-* Asistente Principal: Tesista [Carlos Aznarán](https://github.com/carlosal1015)
+* **Docente:** [Prof. Fidel Jara](https://github.com/fideljara-art)
+  * **Asesorías:** Lunes, miércoles y viernes en el pabellón R3, segundo piso (oficina de profesores).
+* **Asistente de Laboratorio:** [Carlos Aznarán](https://github.com/carlosal1015) (Tesista)
 
-Correos de contacto:
+### Canales de Comunicación
 
-* Contacto del profesor: [fjarah@uni.edu.pe](mailto:fjarah@uni.edu.pe)
-* Grupo de WhatsApp: [Enlace de invitación al grupo](https://chat.whatsapp.com/DHgkVX4mA2z6XicekZjm0g)
+* **Correo electrónico:** [fjarah@uni.edu.pe](mailto:fjarah@uni.edu.pe)
+* **Grupo de WhatsApp:** [Unirse al grupo oficial](https://chat.whatsapp.com/DHgkVX4mA2z6XicekZjm0g)
+* **Sesiones grabadas de los laboratorios:** [Lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLlO55b8QFcKOz0TnlQIIm9he9oy0JWSOA)
+* **GitHub Education:** Se recomienda a los estudiantes registrarse en [GitHub Education](https://github.com/education) para acceder a beneficios académicos.
+Utilizaremos el [foro de Discusiones](https://github.com/features/discussions) para consultas de interés general; se solicita evitar la publicación de soluciones directas a las tareas.
 
-**GitHub Education:** Se anima a los estudiantes a registrarse en
-[GitHub Education](https://github.com/education) para participar en
-las discusiones del curso.
-Si su pregunta es sobre el material del curso y no revela pistas
-sobre las tareas, por favor publíquela en el
-[foro de Discusiones](https://github.com/features/discussions) para
-que toda la clase pueda beneficiarse de la respuesta.
+### Horario de Clases
 
-**Horarios de conferencias y tutorías:**  
-
-| Fecha      | Tema                                                                  | Hora        | Ubicación |
-| ---------- | --------------------------------------------------------------------- | ----------- | --------- |
-| 23/03/2026 | Introducción al curso y [prueba de entrada](assets/misc/entrance.pdf) | 16:00-18:00 | R1-250 A  |
-| 25/03/2026 | Introducción a Python para Métodos Numéricos                          | 17:00-19:00 | Sala 2    |
-| 27/03/2026 | Método de diferencias finitas                                         | 16:00-18:00 | R3-123 B  |
+| Día       | Tipo de Sesión                    | Horario     | Aula     |
+| --------- | --------------------------------- | ----------- | -------- |
+| Lunes     | Teoría                            | 16:00-18:00 | R1-250 A |
+| Miércoles | Laboratorio / Práctica Calificada | 17:00-19:00 | Sala 2   |
+| Viernes   | Teoría                            | 16:00-18:00 | R3-123 B |
 
 <br/>
 
-**Conferencias y tutorías en línea:** El acceso a las conferencias y
-tutorías en línea se comunicará a través de la lista de grupo del
-curso.
+**Sesiones virtuales:** Los enlaces para clases o asesorías en línea se comunicarán oportunamente a través de los canales oficiales.

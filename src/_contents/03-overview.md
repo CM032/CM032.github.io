@@ -9,7 +9,7 @@ image: ""
 Muchos fenómenos físicos y naturales—desde la transferencia de calor
 y la dinámica de fluidos hasta la propagación de ondas y los procesos
 de advección-difusión—se modelan mediante ecuaciones diferenciales
-parciales (EDP).
+parciales.
 Resolver estas ecuaciones analíticamente es a menudo imposible en
 casos reales, lo que hace necesario el uso de métodos numéricos para
 aproximar soluciones.
