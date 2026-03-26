@@ -9,7 +9,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 ### Recursos del curso
 
 *   **Sílabo del curso:** [Consultar contenido detallado](assets/misc/syllabus.pdf).
-*   **Sílabo dosificado:** [Consultar cronograma de actividades](assets/misc/dofisicado.pdf).
+*   **Sílabo dosificado:** [Consultar cronograma de actividades](assets/misc/cronogram.pdf).
 
 ### Equipo docente
 
