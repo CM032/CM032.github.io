@@ -2,7 +2,7 @@
 id: assignments
 name: Tareas
 heading: Tareas
-subheading: Tareas&#58;
+subheading: Tareas
 image: ""
 ---
 

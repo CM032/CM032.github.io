@@ -2,7 +2,7 @@
 id: announcements
 name: Anuncios
 heading: Anuncios
-subheading: Anuncios&#58;
+subheading: Anuncios
 image: ""
 ---
 

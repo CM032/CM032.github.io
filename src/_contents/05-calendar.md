@@ -1,8 +1,8 @@
 ---
 id: calendar
-name: Calendar
-heading: Calendar
-subheading: Calendar&#58;
+name: Calendario
+heading: Calendario
+subheading: Calendario
 image: ""
 ---
 
