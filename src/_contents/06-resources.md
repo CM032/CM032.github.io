@@ -20,7 +20,49 @@ image: ""
 
 ## Eventos
 
-| Nombre                   | Enlace                                                                           | Descripción                                                                               |
-| ------------------------ | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Geoclaw 2026 Workshop    | [GeoClaw Users 2026 Workshop](https://www.clawpack.org/geoclaw-users-2026)       | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes.         |
-| Geoclaw Tsunami Tutorial | [Geoclaw Tsunami Tutorial](https://rjleveque.github.io/geoclaw_tsunami_tutorial) | Tutorial interactivo para usuarios nuevos de GeoClaw con enfoque en modelado de tsunamis. |
+| Nombre                                        | Enlace                                      | Descripción                                                                       |
+| --------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
+| Geoclaw 2026 Workshop                         | https://www.clawpack.org/geoclaw-users-2026 | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes. |
+| Conference On Iterative and Multigrid Methods | https://coloradoconference.github.io/2026   |                                                                                   |
+
+
+Foundations of Computational Mathematics 2026
+https://focm2026.univie.ac.at/#news
+
+International Workshop on Numerical and Learning Methods
+https://tsimf.tsinghua.edu.cn/info/1549/1752.htm
+
+
+Geoclaw Tsunami Tutorial
+Tutorial interactivo de GeoClaw con enfoque en modelado de tsunamis.
+[Geoclaw Tsunami Tutorial](https://rjleveque.github.io/geoclaw_tsunami_tutorial)
+
+NumPDE Workshop 2025
+https://numpde.kaust.edu.sa/numpde-workshop-2025
+
+https://numpde.kaust.edu.sa/poems26
+Polytopal Element Methods in Mathematics and Engineering
+
+PDE and Applied Mathematics
+
+https://symposia.kias.re.kr/2026PDEMATH/
+
+Harmonic Analysis and PDE’s Summer School
+https://www.crm.cat/harmonic-analysis-and-pdes-summer-school-2026/
+
+Workshop on Partial Differential Equations
+https://www2.ufjf.br/wpde/welcome/
+
+https://sites.google.com/impatech.edu.br/ai-pde
+Workshop on Artificial Intelligence and Partial Differential Equations
+
+2nd International Meeting on Differential Equations and Applications
+https://blogs.upm.es/international-meeting-differential-equations-applications/
+
+ICMC Summer Meeting on Differential Equations
+https://summer.icmc.usp.br/summers/summer26/index.php
+
+https://www.ucm.es/jarrieta/conferences
+
+https://www.cimpa.info/en/ecoles/numerical-analysis-pdes-classical-methods-and-recent-developments
+https://natalia-kopteva.github.io/home/pubs.html
