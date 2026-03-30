@@ -20,12 +20,12 @@ image: ""
 
 ## Eventos
 
-| Nombre                                        | Enlace                                      | Descripción                                                                       |
-| --------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- |
-| Geoclaw 2026 Workshop                         | https://www.clawpack.org/geoclaw-users-2026 | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes. |
-| Conference On Iterative and Multigrid Methods | https://coloradoconference.github.io/2026   |                                                                                   |
+| Nombre                                                                                     | Descripción                                                                       |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [Geoclaw 2026 Workshop](https://www.clawpack.org/geoclaw-users-2026)                       | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes. |
+| [Conference On Iterative and Multigrid Methods](https://coloradoconference.github.io/2026) |                                                                                   |
 
-
+{% comment %}
 Foundations of Computational Mathematics 2026
 https://focm2026.univie.ac.at/#news
 
@@ -66,3 +66,4 @@ https://www.ucm.es/jarrieta/conferences
 
 https://www.cimpa.info/en/ecoles/numerical-analysis-pdes-classical-methods-and-recent-developments
 https://natalia-kopteva.github.io/home/pubs.html
+{% endcomment %}
