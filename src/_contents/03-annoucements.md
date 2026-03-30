@@ -7,9 +7,7 @@ image: ""
 ---
 
 {% comment %}
-- **25 de marzo**: La guía de la Tarea 1 [documento](assets/assignments/a1.pdf) y el [código inicial](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a1-code.ipynb) están en línea.
-Asegúrate de crear una copia en tu Drive antes de hacer ediciones, de lo contrario los cambios no se guardarán.
-La Tarea 1 vence el 30 de marzo.
+- **3 de abril**: Por ser feriado nacional por Viernes Santo, no habrá clases.
 - **1 de abril**: La guía de la Tarea 2 [documento](assets/assignments/a2.pdf) y el [código inicial](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a2-code.ipynb) están en línea. Asegúrate de crear una copia en tu Drive antes de hacer ediciones, de lo contrario los cambios no se guardarán. La Tarea 2 vence el 24 de febrero.
 - **8 de abril**: La guía de la Tarea 2 [documento](assets/assignments/a2.pdf) actualizada a Versión 1.1
 - **15 de abril**: La guía de la Tarea 2 [documento](assets/assignments/a2.pdf) actualizada a Versión 1.2
