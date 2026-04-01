@@ -23,7 +23,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 - **Grupo de WhatsApp:** [Enlace de invitación al grupo](https://chat.whatsapp.com/DHgkVX4mA2z6XicekZjm0g)
 - **Videoconferencia Meet:** [Enlace a la videollamada](https://meet.google.com/ayz-xokc-uct)
 - **Grabaciones de laboratorio:** [Lista de reproducción](https://www.youtube.com/playlist?list=PLlO55b8QFcKOz0TnlQIIm9he9oy0JWSOA)
-- **GitHub Education:** Se invita a los estudiantes a [registrarse](https://github.com/education) para acceder a los beneficios académicos. Utilizaremos el [foro de Discusiones](https://github.com/features/discussions) para resolver consultas de interés general. Se solicita evitar la publicación de soluciones directas a las tareas.
+- **GitHub Education:** Se invita a los estudiantes a registrarse en el [enlace al aula virtual](https://classroom.github.com/a/Q7IbolKR). Utilizaremos el [foro de discusiones](https://github.com/CM032/CM032.github.io/discussions) para resolver consultas de interés general. Se solicita evitar la publicación de soluciones directas a las tareas.
 
 ### Horario de clases
 
