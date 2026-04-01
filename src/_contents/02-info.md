@@ -21,7 +21,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 
 - **Correo electrónico:** [fjarah@uni.edu.pe](mailto:fjarah@uni.edu.pe)
 - **Grupo de WhatsApp:** [Enlace de invitación al grupo](https://chat.whatsapp.com/DHgkVX4mA2z6XicekZjm0g)
-- **Meet:** [Enlace a la videollamada](https://meet.google.com/ayz-xokc-uct)
+- **Videoconferencia Meet:** [Enlace a la videollamada](https://meet.google.com/ayz-xokc-uct)
 - **Grabaciones de laboratorio:** [Lista de reproducción](https://www.youtube.com/playlist?list=PLlO55b8QFcKOz0TnlQIIm9he9oy0JWSOA)
 - **GitHub Education:** Se invita a los estudiantes a [registrarse](https://github.com/education) para acceder a los beneficios académicos. Utilizaremos el [foro de Discusiones](https://github.com/features/discussions) para resolver consultas de interés general. Se solicita evitar la publicación de soluciones directas a las tareas.
 
