@@ -23,15 +23,16 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 - **Grupo de WhatsApp:** [Enlace de invitación al grupo](https://chat.whatsapp.com/DHgkVX4mA2z6XicekZjm0g)
 - **Videoconferencia Meet:** [Enlace a la videollamada](https://meet.google.com/ayz-xokc-uct)
 - **Grabaciones de laboratorio:** [Lista de reproducción](https://www.youtube.com/playlist?list=PLlO55b8QFcKOz0TnlQIIm9he9oy0JWSOA)
+- **Fotos de clase**: [Enlace a la galería de fotos](https://cm032.github.io/gallery/photos)
 - **GitHub Education:** Se invita a los estudiantes a registrarse en el [enlace al aula virtual](https://classroom.github.com/a/Q7IbolKR). Utilizaremos el [foro de discusiones](https://github.com/CM032/CM032.github.io/discussions) para resolver consultas de interés general. Se solicita evitar la publicación de soluciones directas a las tareas.
 
 ### Horario de clases
 
-|    Día    |          Tipo de Sesión           |   Horario   |   Aula   |
-| :-------: | :-------------------------------: | :---------: | :------: |
-|   Lunes   |           Clase teórica           | 16:00-18:00 | R1-250 A |
-| Miércoles | Laboratorio / Práctica Calificada | 17:00-19:00 |  Sala 2  |
-|  Viernes  |           Clase teórica           | 16:00-18:00 | R3-123 B |
+|    Día    |          Tipo de Sesión           |      Horario      |   Aula   |
+| :-------: | :-------------------------------: | :---------------: | :------: |
+|   Lunes   |           Clase teórica           | 16:00 - 18:00 hrs | R1-250 A |
+| Miércoles | Laboratorio / Práctica Calificada | 17:00 - 19:00 hrs |  Sala 2  |
+|  Viernes  |           Clase teórica           | 16:00 - 18:00 hrs | R3-123 B |
 
 <br/>
 
