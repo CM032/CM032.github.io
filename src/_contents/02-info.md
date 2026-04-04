@@ -26,13 +26,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Advection_equation_s
 - **Fotos de clase**: [Enlace a la galería de fotos](https://cm032.github.io/gallery/photos)
 - **GitHub Education:** Se invita a los estudiantes a registrarse en el [enlace al aula virtual](https://classroom.github.com/a/Q7IbolKR). Utilizaremos el [foro de discusiones](https://github.com/CM032/CM032.github.io/discussions) para resolver consultas de interés general. Se solicita evitar la publicación de soluciones directas a las tareas.
 
-### Horario de clases
+### Frecuencia de clase
 
-|    Día    |          Tipo de Sesión           |      Horario      |   Aula   |
-| :-------: | :-------------------------------: | :---------------: | :------: |
-|   Lunes   |           Clase teórica           | 16:00 - 18:00 hrs | R1-250 A |
-| Miércoles | Laboratorio / Práctica Calificada | 17:00 - 19:00 hrs |  Sala 2  |
-|  Viernes  |           Clase teórica           | 16:00 - 18:00 hrs | R3-123 B |
+|    Día    | Tipo de sesión |     Horario     |   Aula   |
+| :-------: | :------------: | :-------------: | :------: |
+|   lunes   |    lectura     | 16:00 - 18:00 h | R1-250 A |
+| miércoles |  laboratorio   | 17:00 - 19:00 h |  Sala 2  |
+|  viernes  |    lectura     | 16:00 - 18:00 h | R3-123 B |
 
 <br/>
 
