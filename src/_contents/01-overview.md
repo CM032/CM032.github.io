@@ -34,3 +34,5 @@ profundas, cinética química y fenómenos ondulatorios.
 Al finalizar, dispondrás de las herramientas necesarias para diseñar,
 implementar y validar esquemas numéricos robustos, aplicables a
 desafíos complejos en investigación e ingeniería.
+
+$$\LaTeX$$
