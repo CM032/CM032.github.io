@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/
+_site
+.bundle
+vendor/
+src/.sass-cache/

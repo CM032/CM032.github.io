@@ -66,4 +66,20 @@ https://www.ucm.es/jarrieta/conferences
 
 https://www.cimpa.info/en/ecoles/numerical-analysis-pdes-classical-methods-and-recent-developments
 https://natalia-kopteva.github.io/home/pubs.html
+
+https://sites.google.com/view/sociedadmatematicaperuana/39-coloquio-smp/sobre-el-coloquio
+
+https://archive.math.muni.cz/conference/veron70/index.php%3Fid=program.html
+
+https://simon-blatt.github.io/Salzburg2025/
+
+https://sites.google.com/im.unam.mx/nonlinear-pdes-at-juriquilla/schedule
+
+https://indico.math.cnrs.fr/event/14186/
+https://i2m4hydrosystem.sciencesconf.org/
+https://lsec.cc.ac.cn/~icspfem26/Program.html
+
+https://ecfd.coria-cfd.fr/index.php/Ecfd:ecfd_9th_edition
+https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2026
+https://shark-fv.eu/home-shark/
 {% endcomment %}
