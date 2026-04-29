@@ -9,6 +9,7 @@ image: ""
 - **25 de marzo**: [Solución](assets/assignments/a2.pdf) de la prueba de entrada.
 - **3 de abril**: Día feriado (viernes santo), no hay clase.
 - **8 de abril**: [Práctica calificada 1](assets/assignments/a2.pdf).
+- **27 de abril**: [Práctica calificada 2](assets/assignments/a2.pdf).
 {% comment %}
 - **15 de abril**: La guía de la Tarea 2 [documento](assets/assignments/a2.pdf) actualizada a Versión 1.2
 - **22 de abril**: La guía de la Tarea 2 [documento](assets/assignments/a2.pdf) actualizada a Versión 1.3
