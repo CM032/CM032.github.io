@@ -20,66 +20,37 @@ image: ""
 
 ## Eventos
 
-| Nombre                                                                                     | Descripción                                                                       |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [Geoclaw 2026 Workshop](https://www.clawpack.org/geoclaw-users-2026)                       | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes. |
-| [Conference On Iterative and Multigrid Methods](https://coloradoconference.github.io/2026) |                                                                                   |
+| Nombre | Fecha | Descripción |
+| --- | --- | --- |
+| [NumPDE Workshop 2025](https://numpde.kaust.edu.sa/numpde-workshop-2025) | 2025-01-26 al 2025-01-28 | Numerical Methods for PDEs |
+| [Nonlinear Partial Differential Equations in Salzburg](https://simon-blatt.github.io/Salzburg2025/) | 2025-11-05 al 2025-11-07 | Workshop on Nonlinear Partial Differential Equations at the Paris-Lodron University Salzburg, November 05 - 07 2025 |
+| [International Workshop on Structure-Preserving Finite Element Methods](https://lsec.cc.ac.cn/~icspfem26/Program.html) | 2026-01-09 al 2026-01-10 | Program |
+| [2026 Winter Workshop on PDE and Applied Mathematics](https://symposia.kias.re.kr/2026PDEMATH/) | 2026-01-12 al 2026-01-14 | January 12-14, 2026 at Chonnam National University |
+| [Extreme CFD workshop (ECFD 9th edition)](https://ecfd.coria-cfd.fr/index.php/Ecfd:ecfd_9th_edition) | 2026-01-19 al 2026-01-30 | 2026 ECFD workshop |
+| [ICMC Summer Meeting on Differential Equations](https://summer.icmc.usp.br/summers/summer26/index.php) | 2026-02-02 al 2026-02-04 | ICMC Summer Meeting on Differential Equations 2026 |
+| [Short course on Advanced numerical methods for hyperbolic equations 2026](https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2026) | 2026-02-02 al 2026-02-06 | UniTN - Department of Civil, Environmental and Mechanical Engineering |
+| [International Workshop on Numerical and Learning Methods for PDEs](https://tsimf.tsinghua.edu.cn/info/1549/1752.htm) | 2026-02-09 al 2026-02-13 | TSIMF - YMSC BIMSA SIMIS |
+| [Geoclaw 2026 Workshop](https://www.clawpack.org/geoclaw-users-2026) | 2026-03 (TBD) | Workshop de marzo 2026 sobre aplicaciones de GeoClaw con más de 70 participantes. |
+| [2nd International Meeting on Differential Equations and Applications](https://blogs.upm.es/international-meeting-differential-equations-applications/) | 2026-03-09 al 2026-03-11 | International Meeting on Differential Equations and Applications |
+| [Hyperbolic Problems: A Comprehensive Approach](https://indico.math.cnrs.fr/event/14186/) | 2026-03-23 al 2026-03-27 | 23-27 March 2026 |
+| [HYP2026 - Hyperbolic Problems](https://www.hyp2026.uni-stuttgart.de) | 2026-05-25 al 2026-05-29 | Conferencia internacional sobre problemas hiperbólicos: teoría, métodos numéricos y aplicaciones, 25-29 de mayo de 2026 en Stuttgart, Alemania. |
+| [Foundations of Computational Mathematics 2026](https://focm2026.univie.ac.at/#news) | 2026-06 (TBD) | FoCM 2026 – Foundations of Computational Mathematics |
+| [Harmonic Analysis and PDEs Summer School 2026](https://www.crm.cat/harmonic-analysis-and-pdes-summer-school-2026/) | 2026-06-15 al 2026-06-18 | Centre de Recerca Matemàtica |
+| [XVIII Encuentro de Matemática y sus Aplicaciones](https://xviii-encuentro.epn.edu.ec) | 2026-06-15 al 2026-06-19 | Espacio académico para el desarrollo y aplicaciones de la matemática, 15-19 de junio de 2026 en Quito, Ecuador. |
+| [Workshop on Partial Differential Equations](https://www2.ufjf.br/wpde/welcome/) | 2026-09-15 al 2026-09-18 | 2026 National Laboratory of Scientific Computing (LNCC) |
+| [Polytopal Element Methods in Mathematics and Engineering (POEMS 2026)](https://numpde.kaust.edu.sa/poems26) | 2026-11-09 al 2026-11-12 | KAUST, 9-12 November 2026 |
+| [39° Coloquio Nacional de Matemática](https://sites.google.com/view/sociedadmatematicaperuana/39-coloquio-smp/sobre-el-coloquio) | N/A | Sociedad Matemática Peruana |
+| [Conference On Iterative and Multigrid Methods](https://coloradoconference.github.io/2026) | N/A | Colorado Conference on Iterative and Multigrid Methods |
+| [Conference Veron70](https://archive.math.muni.cz/conference/veron70/index.php%3Fid=program.html) | N/A | Program |
+| [Conferences - José María Arrieta](https://www.ucm.es/jarrieta/conferences) | N/A | List of conferences organized or attended by José María Arrieta |
+| [Geoclaw Tsunami Tutorial](https://rjleveque.github.io/geoclaw_tsunami_tutorial) | N/A | Tutorial interactivo de GeoClaw con enfoque en modelado de tsunamis. |
+| [Mediterranean Workshop on Modeling and Numerical Methods for Hydro-Systems](https://i2m4hydrosystem.sciencesconf.org/) | N/A | Sciencesconf.org |
+| [Natalia Kopteva - Publications](https://natalia-kopteva.github.io/home/pubs.html) | N/A | Mathematics - University of Limerick |
+| [Numerical Analysis of PDEs: classical methods and recent developments](https://www.cimpa.info/en/ecoles/numerical-analysis-pdes-classical-methods-and-recent-developments) | N/A | CIMPA School |
+| [SHARK-FV](https://shark-fv.eu/home-shark/) | N/A | Sharing Higher-order Advanced Research Know-how on Finite Volume |
+| [Workshop on Artificial Intelligence and Partial Differential Equations](https://sites.google.com/impatech.edu.br/ai-pde) | N/A | AI & PDE Workshop |
+| [Workshop on Nonlinear PDEs at Juriquilla](https://sites.google.com/im.unam.mx/nonlinear-pdes-at-juriquilla/schedule) | N/A | Schedule |
+
 
 {% comment %}
-Foundations of Computational Mathematics 2026
-https://focm2026.univie.ac.at/#news
-
-International Workshop on Numerical and Learning Methods
-https://tsimf.tsinghua.edu.cn/info/1549/1752.htm
-
-
-Geoclaw Tsunami Tutorial
-Tutorial interactivo de GeoClaw con enfoque en modelado de tsunamis.
-[Geoclaw Tsunami Tutorial](https://rjleveque.github.io/geoclaw_tsunami_tutorial)
-
-NumPDE Workshop 2025
-https://numpde.kaust.edu.sa/numpde-workshop-2025
-
-https://numpde.kaust.edu.sa/poems26
-Polytopal Element Methods in Mathematics and Engineering
-
-PDE and Applied Mathematics
-
-https://symposia.kias.re.kr/2026PDEMATH/
-
-Harmonic Analysis and PDE’s Summer School
-https://www.crm.cat/harmonic-analysis-and-pdes-summer-school-2026/
-
-Workshop on Partial Differential Equations
-https://www2.ufjf.br/wpde/welcome/
-
-https://sites.google.com/impatech.edu.br/ai-pde
-Workshop on Artificial Intelligence and Partial Differential Equations
-
-2nd International Meeting on Differential Equations and Applications
-https://blogs.upm.es/international-meeting-differential-equations-applications/
-
-ICMC Summer Meeting on Differential Equations
-https://summer.icmc.usp.br/summers/summer26/index.php
-
-https://www.ucm.es/jarrieta/conferences
-
-https://www.cimpa.info/en/ecoles/numerical-analysis-pdes-classical-methods-and-recent-developments
-https://natalia-kopteva.github.io/home/pubs.html
-
-https://sites.google.com/view/sociedadmatematicaperuana/39-coloquio-smp/sobre-el-coloquio
-
-https://archive.math.muni.cz/conference/veron70/index.php%3Fid=program.html
-
-https://simon-blatt.github.io/Salzburg2025/
-
-https://sites.google.com/im.unam.mx/nonlinear-pdes-at-juriquilla/schedule
-
-https://indico.math.cnrs.fr/event/14186/
-https://i2m4hydrosystem.sciencesconf.org/
-https://lsec.cc.ac.cn/~icspfem26/Program.html
-
-https://ecfd.coria-cfd.fr/index.php/Ecfd:ecfd_9th_edition
-https://eventi.unitn.it/en/short-course-advanced-numerical-methods-hyperbolic-equations-2026
-https://shark-fv.eu/home-shark/
 {% endcomment %}
